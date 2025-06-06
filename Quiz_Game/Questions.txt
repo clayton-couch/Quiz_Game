@@ -1,0 +1,80 @@
+MC_0_Which of the following is not a function of the integumentary system?_a) Protection_b) Regulation of body temperature_c) Blood cell production_d) Sensation_3
+MC_0_Which organ is primarily responsible for the digestion of proteins?_a)Stomach_b) Small intestine_c) Liver_d) Pancreas_1
+MC_0_Which blood vessels carry blood away from the heart?_a) Arteries_b) Veins_c) Capillaries_d) Venules_1
+MC_1_Which of the following is not a function of the kidneys?_a) Regulation of blood pressure_b) Regulation of electrolyte balance_c) Production of insulin_d) Removal of waste products from the blood_3
+MC_1_Which gland is responsible for producing insulin?_a) Pituitary gland_b) Thyroid gland_c) Pancreas_d) Adrenal gland_3
+MC_1_Which of the following is not a function of the central nervous system?_a) Processing sensory information_b) Controlling voluntary movements_c) Regulating body temperature_d) Mediating emotions and behaviour_3
+MC_2_Which of the following is/are function(s) of the digestive system?_a) Controlling voluntary movements_b) Regulation of body temperature_c) Mediating emotions and behaviour_d) Elimination of waste products_4
+MC_2_Which of the following is not a component of blood?_a) Red blood cells_b) White blood cells_c) Platelets_d) Lymphocytes_4
+MC_2_Which of the following is not a function of the skin?_a) Protection from pathogens_b) Regulation of body temperature_c) Production of red blood cells_d) Sensation of touch, pressure, and pain_3
+TF_0_Neurons transmit electrical signals across the body._1
+TF_0_The process of filtration occurs in the kidneys during urine formation._1
+TF_0_The human body has four types of tissue: epithelial, connective, muscle, and cartilage._0
+TF_1_The respiratory system is responsible for the exchange of oxygen and carbon dioxide between body and environment._1
+TF_1_The human skeletal system is composed of 206 bones._1
+TF_1_The immune system is responsible for defending the body against pathogens._1
+TF_2_Cartilage is a type of connective tissue found in the human body._1
+TF_2_The endocrine system primarily uses electrical signals to communicate with target cells_0
+TF_2_Ligaments connect bone to bone in the human body._1
+FB_0_Fill in the Blank:_tissue is specialized for contraction and movement of body parts._Muscle
+FB_0_Fill in the blank:_The process of breaking down food into smaller molecules that can be absorbed by the body is called _ _Digestion
+FB_0_Fill in the Blank: The _ system is responsible for the production of hormones that regulate various body functions_Endocrine
+FB_1_Fill in the Blank: The _system is responsible for the production, maturation, and transportation of sperm_Reproductive
+FB_1_Fill in the Blank: _ is the process by which an egg is released from the ovary. _Ovulation
+FB_1_Fill in the Blank:  _ is the process by which the body maintains a relatively stable internal environment _Homeostasis
+FB_2_Fill in the Blank: The _ system is responsible for the removal of metabolic wastes from the body _Excretory
+FB_2_Fill in the Blank: The _ system is responsible for the movement of the body and the maintenance of posture._Muscular
+FB_2_Fill in the Blank:  _ is the process by which blood cells are formed. _Haematopoiesis
+MC_0_Which of the following is not a component of the respiratory system?_a) Trachea_b) Alveoli_c) Esophagus_d) Bronchi_3
+MC_0_Which organ produces bile to aid in digestion?_a) Pancreas_b) Gallbladder_c) Liver_d) Appendix_3
+MC_2_Which of the following is not a function of the circulatory system?_a) Transporting oxygen and nutrients to cells_b) Regulating body temperature_c) Removing waste products from the body_d) Coordinating voluntary movements_4
+MC_2_Which of the following is not a type of muscle tissue?_a) Skeletal muscle_b) Smooth muscle_c) Cardiac muscle_d) Nervous muscle_4
+MC_1_Which gland is responsible for the production of melatonin?_a) Pituitary gland_b) Thyroid gland_c) Pineal gland_d) Adrenal gland_3
+MC_1_Which of the following is not a component of the lymphatic system?_a) Lymph nodes_b) Spleen_c) Kidneys_d) Thymus_3
+TF_2_The urinary system is responsible for the production and excretion of urine._1
+TF_2_The endocrine system regulates various body functions through the release of hormones._1
+FB_0_Fill in the Blank: _ is the outermost layer of the skin._Epidermis
+FB_1_Fill in the Blank: The _ system is responsible for the transportation of oxygen and nutrients throughout the body._Circulatory
+FB_0_Fill in the Blank: The _ system is responsible for producing and circulating lymphocytes and other immune cells._Lymphatic
+MC_1_Which of the following is not a component of the excretory system?_a) Kidneys_b) Bladder_c) Liver_d) Lungs_3
+MC_1_Which organ is responsible for the production of bile?_a) Liver_b) Gallbladder_c) Pancreas_d) Appendix_1
+MC_1_Which of the following is not a function of the muscular system?_a) Production of movement_b) Maintenance of posture_c) Production of hormones_d) Generation of heat_3
+MC_2_Which of the following is not a type of joint found in the human body?_a) Ball and socket joint_b) Hinge joint_c) Pivot joint_d) Cartilage joint_4
+MC_2_Which gland is responsible for the production of adrenaline?_a) Thyroid gland_b) Adrenal gland_c) Pituitary gland_d) Pineal gland_2
+MC_2_Which of the following is not a component of the endocrine system?_a) Pituitary gland_b) Thyroid gland_c) Adrenal gland_d) Liver_4
+TF_1_Cartilage is a type of bone tissue._0
+TF_1_The liver is the largest internal organ in the human body._1
+TF_0_The process of digestion primarily occurs in the stomach._0
+FB_2_Fill in the Blank: _ is the process by which excess water and waste products are removed from the blood._Excretion
+FB_2_Fill in the Blank: _ is the fluid-filled sac that surrounds the heart._Pericardium
+FB_2_Fill in the Blank: _ is a hormone released by the adrenal glands in response to stress._Adrenaline
+FB_2_Fill in the Blank: The _ system is responsible for the production and regulation of hormones._Endocrine
+FB_1_Fill in the Blank: _ are the structural units of the nervous system._Neurons
+MC_1_Which of the following is not a function of the skeletal system?_a) Production of blood cells_b) Storage of minerals such as calcium and phosphorus_c) Protection of internal organs_d) Generation of electrical signals_4
+MC_2_Which of the following is not a type of bone found in the human body?_a) Long bones_b) Short bones_c) Smooth bones_d) Flat bones_3
+MC_0_Which of the following is not a component of the male reproductive system?_a) Prostate gland_b) Testes_c) Urethra_d) Ovary_4
+MC_1_Which of the following is not a function of the endocrine system?_a) Regulation of metabolism_b) Regulation of growth and development_c) Production of digestive enzyme_d) Regulation of mood and emotions_3
+MC_2_Which of the following is not a type of neuron found in the human nervous system?_a) Sensory neurons_b) Motor neurons_c) Interneurons_d) Epithelial neurons_4
+MC_0_Which of the following is not a component of the female reproductive system?_a) Ovary_b) Uterus_c) Prostate gland_d) Fallopian tube_3
+TF_1_The epiglottis is a small flap of cartilage that prevents food from entering the trachea during swallowing._1
+TF_2_The adrenal glands are located on top of the kidneys._1
+TF_2_The spleen is part of the lymphatic system and acts as a blood filter._1
+FB_1_Fill in the Blank: _ is the pigment responsible for the color of the skin._Melanin
+FB_2_Fill in the Blank: The _ system is responsible for the production of eggs and the development of offspring._Reproductive
+FB_1_Fill in the Blank: _ is the process by which bones are formed, remodeled, and repaired._Ossification
+FB_1_Fill in the Blank: _ is a neurotransmitter that plays a role in mood regulation and pleasure._Dopamine
+FB_2_Fill in the Blank: The _ system is responsible for the transportation of oxygen and carbon dioxide between the lungs and the rest of the body._Respiratory
+MC_1_Which of the following is not a component of the urinary system?_a) Kidneys_b) Bladder_c) Ureter_d) Spleen_4
+MC_2_Which organ is primarily responsible for the detoxification of harmful substances in the body?_a) Liver_b) Kidneys_c) Pancreas_d) Gallbladder_1
+MC_0_Which of the following is not a function of the cardiovascular system?_a) Transporting hormones to target tissues_b) Facilitating gas exchange in the lungs_c) Facilitating the exchange of nutrients and waste products at the cellular level_d) Regulation of body temperature_4
+MC_0_Which of the following is not a component of the endocrine system?_a) Pineal gland_b) Hypothalamus_c) Adrenal gland_d) Thymus_4
+MC_1_Which of the following is not a type of connective tissue found in the human body?_a) Bone tissue_b) Cartilage tissue_c) Adipose tissue_d) Epithelial tissue_4
+MC_1_Which of the following is not a function of the reproductive system?_a) Production of gametes (sperm and egg cells)_b) Secretion of sex hormones_c) Regulation of blood pressure_d) Regulation of body temperature_3
+TF_2_The pancreas produces insulin to regulate blood sugar levels._1
+TF_2_The hypothalamus plays a key role in regulating body temperature._1
+TF_0_Cartilage is avascular, meaning it does not contain blood vessels._1
+FB_1_Fill in the Blank: _ is the hormone responsible for stimulating uterine contractions during childbirth._Oxytocin
+FB_2_Fill in the Blank: The _ system is responsible for the coordination of voluntary and involuntary movements._Nervous
+FB_1_Fill in the Blank: _ is the process by which bones are broken down by osteoclasts and rebuilt by osteoblasts._Remodeling
+FB_2_Fill in the Blank: _ is a type of connective tissue that attaches muscles to bones._Tendons
+FB_0_Fill in the Blank: The _ system is responsible for the production and regulation of red blood cells._Hematopoietic

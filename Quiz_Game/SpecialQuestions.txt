@@ -1,0 +1,58 @@
+0_The largest cranial nerve in the human body_Trigeminal
+0_The gland that produces insulin and regulates blood sugar levels_Pancreas
+0_The tough connective tissue that connects bones to other bones in joints_Ligament
+0_The outermost layer of the skin_Epidermis
+0_The muscle responsible for rotating the forearm_Supinator
+0_The bone located in the upper arm_Humerus
+0_The gland responsible for secreting melatonin_Pineal
+0_The hormone that regulates calcium levels in the blood_Calcitonin
+0_The muscle responsible for flexing the forearm_Biceps
+0_The process of breaking down food in the stomach and intestines_Digestion
+0_The membrane that surrounds the brain and spinal cord_Meninges
+0_The largest artery in the human body_Aorta
+0_The muscle responsible for flexing the wrist_Flexor
+0_The gland responsible for producing cortisol and regulates stress response_Adrenal
+0_The longest and strongest bone in the human body_Femur
+0_The muscle responsible for extending the knee_Quadriceps
+0_The hormone responsible for regulating blood pressure_Aldosterone
+0_The bone located in the lower leg_Tibia
+0_The muscle responsible for abducting the arm_Deltoid
+0_The gland that produces estrogen and regulates reproductive functions_Ovary
+1_A substance responsible for maintaining the body's pH level_Alkaline
+1_The bone located in the lower arm_Radius
+1_The gland responsible for producing adrenaline and regulates the fight-or-flight response_Thyroid
+1_The joint that connects the skull to the spine_Axis
+1_The hormone responsible for regulating metabolism and energy levels_Leptin
+1_The bone located in the palm of the hand_Metacarpal
+1_The muscle responsible for adducting the thigh_Adductor
+1_The smallest bone in the human body_Stapes
+1_The gland responsible for producing testosterone_Testes
+1_The muscle responsible for elevating the ribs during inhalation_Diaphragm
+1_The joint that connects the forearm to the wrist_Radioulnar
+1_The hormone responsible for stimulating uterine contractions during childbirth_Prostaglandin
+1_The bone located in the shoulder blade_Scapula
+1_The muscle responsible for extending the hip_Gluteus
+1_The gland responsible for producing and releasing insulin and glucagon_Pancreas
+1_The joint that connects the upper arm to the shoulder blade_Glenohumeral
+1_The hormone responsible for regulating blood sugar levels in the body_Glucagon
+1_The bone located in the calf region_Fibula
+2_The muscle responsible for flexing the knee_Quadriceps
+2_The gland responsible for producing red and white blood cells_Bone marrow
+2_The joint that connects the thigh bone to the pelvis_Pubic symphysis
+2_The hormone responsible for regulating blood calcium levels_Calcitriol
+2_The bone located in the lower back region_Sacrum
+2_The muscle responsible for rotating the thigh laterally_Piriformis
+2_The gland responsible for producing growth hormone_Thymus
+2_The joint that connects the skull to the spine_Atlanto-occipital
+2_The hormone responsible for regulating the body's sleep-wake cycle_Melatonin
+2_The bone located in the wrist_Metacarpal
+2_The muscle responsible for extending the elbow_Brachialis
+2_The gland responsible for producing saliva_Submandibular
+2_The joint that connects the lower leg to the ankle_Subtalar
+2_The hormone responsible for regulating blood pressure_Vasopressin
+2_The bone located in the thigh_Tibia
+2_The muscle responsible for elevating the scapula_Rhomboids
+2_The gland responsible for producing and secreting digestive enzymes_Pancreas
+2_The joint that connects the upper arm to the trunk_Acro-axial
+2_The bone located in the lower jaw_Maxilla
+2_The joint that connects the skull to the spinal column_Craniovertebral junction
